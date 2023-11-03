@@ -1,6 +1,11 @@
 # Code Refactor Homework
 
-User Story:
+## Description
+
+Given starter code to refactor. Updated to meet accessibility standards and be optimized for search engines.
+
+## User Story:
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -17,3 +22,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+![Deployed application](/Assets/01-html-css-git-homework-demo.png)
